@@ -1,5 +1,5 @@
 
-> Open this page at [https://ericbusboom.github.io/cutebot-square/](https://ericbusboom.github.io/cutebot-square/)
+> Open this page at [https://github.com/League-Microbit/cutebot-square](https://github.com/League-Microbit/cutebot-square)
 
 ## Use as Extension
 
